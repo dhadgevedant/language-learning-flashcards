@@ -1,6 +1,3 @@
 # language-learning-flashcards
 
-Install required libs using 
-  pip install tk
-  pip install pyttsx3
-  
+libraries uesed: Tkinter, pyttsx3
